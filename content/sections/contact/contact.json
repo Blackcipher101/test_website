@@ -1,0 +1,13 @@
+{
+  "name": "Siddhi J",
+  "email": "jo.siddhi16@gmail.com",
+  "description": "",
+  "image": {
+    "src": "../../images/favicon.png",
+    "alt": "Gatsby Logo"
+  },
+  "socialProfiles": {
+    "from": ["LinkedIn", "Medium", "Mail"],
+    "showIcons": true
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "interests": [
+    {
+      "label": "Print Media",
+      "image": {
+        "src": "../../images/joystick.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Web Journalism",
+      "image": {
+        "src": "../../images/notebook.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Reporting",
+      "image": {
+        "src": "../../images/nail-polish.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Research",
+      "image": {
+        "src": "../../images/medium.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Storytelling",
+      "image": {
+        "src": "../../images/gem-stone.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Adaptability",
+      "image": {
+        "src": "../../images/mobile-phone.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Editing",
+      "image": {
+        "src": "../../images/gatsby.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Critical Thinking",
+      "image": {
+        "src": "../../images/high-voltage.png",
+        "alt": ""
+      }
+    }
+  ],
+  "button": {
+    "visible": true,
+    "label": "+ Load More",
+    "initiallyShownInterests": 5
+  }
+}

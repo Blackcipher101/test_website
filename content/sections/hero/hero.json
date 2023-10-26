@@ -1,0 +1,22 @@
+{
+  "intro": "Hey",
+  "heroPhoto": {
+    "src": "../../images/lego-dummy.png",
+    "alt": "My Photo"
+  },
+  "image": {
+    "src": "../../images/waving-hand.png",
+    "alt": "Waving Hand Emoji"
+  },
+  "title": "I am Siddhi Jojare,",
+  "subtitle": {
+    "prefix": "Stories ",
+    "highlight": "around me",
+    "suffix": "."
+  },
+  "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",
+  "socialProfiles": {
+    "from": ["LinkedIn", "Medium", "Mail"],
+    "showIcons": false
+  }
+}
