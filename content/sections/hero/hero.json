@@ -14,7 +14,7 @@
     "highlight": "around me",
     "suffix": "."
   },
-  "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",
+  "description": "",
   "socialProfiles": {
     "from": ["LinkedIn", "Medium", "Mail"],
     "showIcons": false
